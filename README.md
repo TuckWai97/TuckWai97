@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tuck Wai from Malaysia 🇲🇾
-- 👀 I’m interested in AI, Machine Learning 🤖, IoT  and Cloud ☁️
-- 🌱 I’m currently focus on embedded electronics,and aside from learning to become Google Cloud Certified and certified in AWS!!!
-- 💞️ I’m looking to collaborate on open source project in Omdena soon!
+- 👋 Hi, I’m Tuck Wai from Malaysia 🇲🇾 ,currently unemployed and looking toward job opportunity especially remote.
+- 👀 I’m interested in Web, IoT  and Cloud ☁️, AI, Machine Learning 🤖 
+- 🌱 I’m currently learning about web development by starting on working on small project ,and aside from learning to become Google Cloud Certified and certified in AWS!!!
+- 💞️ I’m going to start contributing on open-source project and try to venture into software development/Cloud field.
 - 📫 You can reach me on Twitter @TuckYip or Linkedin https://www.linkedin.com/in/tuck-wai-yip/
 
 <!---
