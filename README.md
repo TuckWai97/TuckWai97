@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tuck Wai from Malaysia 🇲🇾 ,currently unemployed and looking toward job opportunity especially remote.
+- 👋 Hi, I’m Tuck Wai from Malaysia 🇲🇾 ,currently unemployed and looking forward to job opportunity especially remote.
 - 👀 I’m interested in Web, IoT  and Cloud ☁️, AI, Machine Learning 🤖 
 - 🌱 I’m currently learning about web development by starting on working on small project ,and aside from learning to become Google Cloud Certified and certified in AWS!!!
 - 💞️ I’m going to start contributing on open-source project and try to venture into software development/Cloud field.
